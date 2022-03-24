@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Title</title>
+    <title> Simple HTML Document </title>
 </head>
 <body>
-    <header>header</header> <!-- header of site -->
+    <header>header</header> <!-- header of website -->
     <main>
         <h1>h1</h1> <!-- heading  1 of website -->
         <h2>h2</h2> <!-- heading  2 of website -->
@@ -18,6 +18,6 @@
 
         <p>Lorem ipsum dolor sit amet.</p> <!-- paragraph of text of site -->
     </main>
-    <footer>footer</footer> <!-- footer of site -->
+    <footer>footer</footer> <!-- footer of website -->
 </body>
 </html>
